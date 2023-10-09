@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html> 
+  <head>
+    <title>Resume</title>
+  </head>
+  
+  <body>
+    <h1>Foos Ismail</h1>
+    <h4>Fargo, ND 58103</h4>
+    <p>701-793-9613</p>
+    
+    <ul>PROFILE:</ul>
+    <p>
+      Strongly self-motivated, creative, lively individual with a passion for bridging the gap between People and the Technology they interact with. Relationship centric mentality that is driven by a deep understanding that through teamwork anything is possible.
+    </p>
+ <h2>Professional Experience</h2>
+    <ul>
+   
+    <div >
+      <h3>Cashier, Walmart</h3>
+      <p>Dates of Employment: [12/21 - 04/22]</p>
+      <p>Processed customer transactions efficiently and accurately using cash registers and point-of-sale systems.</p>
+      <p>Greeted customers with a friendly and welcoming demeanor, providing assistance and answering inquiries about products and services.</p>
+      <p>Handled customer returns and exchanges in compliance with company policies and procedures.</p>
+    </div>
+
+ 
+    <div >
+      <h3>Cashier, Home Depot</h3>
+      <p>Dates of Employment: [05/22 - 06/22]</p>
+      <p>Provided exceptional customer service by assisting customers with product inquiries, locating items, and offering guidance on home improvement projects.</p>
+      <p>Handled returns, exchanges, and refunds according to company policies and procedures.</p>
+      <p>Maintained a clean and organized checkout area, ensuring a positive shopping experience for customers.</p>
+    </div>
+
+
+    <div>
+      <h3>Cashier, McDonald’s</h3>
+      <p>Dates of Employment: [06/22 - 06/22]</p>
+      <p>Operated cash registers and POS systems to accurately process customer orders, including taking payments, providing change, and issuing receipts.</p>
+      <p>Greeted customers with a friendly and welcoming attitude, ensuring a positive dining experience.</p>
+      <p>Effectively communicated with the kitchen staff to relay customer orders and special requests.</p>
+      <p>Handled high-volume transactions during peak hours, maintaining accuracy and efficiency.</p>
+    </div>
+
+    <div>
+      <h3>Food Service, Sanford</h3>
+      <p>Dates of Employment: [06-22 - 05-23]</p>
+      <p>Prepared and served meals according to established recipes, portion sizes, and presentation standards.</p>
+      <p>Ensured compliance with food safety and sanitation guidelines, maintaining a clean and organized work area.</p>
+      <p>Assisted in meal planning, including accommodating special dietary needs and preferences of patients and residents.</p>
+      <p>Interacted with patients and their families in a courteous and empathetic manner, addressing any concerns or special requests.</p>
+    </div>
+    <!DOCTYPE html>
+<html> 
+  <head>
+    <title>Resume</title>
+    <style>
+      .flower {
+        position: absolute;
+        width: 50px; /
+        height: auto; /
+      }
+
+      .top-left {
+        top: 0;
+        left: 0;
+      }
+
+      .top-right {
+        top: 0;
+        right: 0;
+      }
+    </style>
+  </head>
+  
+  <body>
+
+    <img src="https://th.bing.com/th/id/OIP.Q0l8MEKzS_hKG-HojwCi1wHaG4?pid=ImgDet&rs=1" alt="Flower" class="flower top-right">
+    
+  
+    
+  </body>
+</html>
+  </body>
+</html>
+     
