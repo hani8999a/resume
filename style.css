@@ -1,28 +1,22 @@
 body {
- background-color: white
+ background-color: white;
 }
+
 h1 {
   color: green;
-    font-size: 35px;
-  font-family:Cascadia Code; 
+  font-size: 35px;
+  font-family: 'Cascadia Code', sans-serif; /* Arial, sans-serif */
 }
-h4 {
+
+h4, h2, h3 {
   color: green;
 }
-ul{ font-size: 20px; 
-  color:green 
-    
-}
-h2 {
-  color: green; 
-}
-div {
-  color:black 
 
-}
 ul {
-  color: green
+  font-size: 20px;
+  color: green;
 }
-h3{
-  color: green
+
+div {
+  color: black;
 }
